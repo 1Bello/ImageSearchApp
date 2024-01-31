@@ -1,4 +1,4 @@
-# search-app
+# Image Search App setup
 
 ## Page setup
 ```
@@ -19,10 +19,9 @@ npm run serve
 pip install uvicorn
 ```
 
-### Runs server 
+### Run server 
 ```
 uvicorn API:app --reload
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Run then in separate consoles at the same time
